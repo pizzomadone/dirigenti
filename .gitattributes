@@ -1,0 +1,3 @@
+# Generated quiz database: keep it versioned, but do not render it as a textual diff.
+# The compact JSON is a very large single line and can exceed review/Codex diff limits.
+app/src/main/assets/questions.json -diff linguist-generated=true
