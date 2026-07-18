@@ -4,11 +4,25 @@ App Android nativa per esercitarsi con la banca dati della prova preselettiva de
 
 ## Funzionalità
 
-- Carica `3.681` quesiti estratti dal PDF `Domande_Prova-Preselettiva_DS.pdf`.
-- Permette di esercitarsi su tutte le domande oppure su una singola area tematica.
+- Carica `3.955` quesiti puliti estratti dal PDF `Domande_Prova-Preselettiva_DS.pdf`.
+- Permette di esercitarsi su tutte le domande oppure su una singola area tematica con nome leggibile.
 - Mischia l'ordine delle risposte: nel PDF la risposta corretta è sempre `[a]`, ma nell'app non resta sempre nella stessa posizione.
 - Mostra punteggio, numero di risposte corrette/errate e percentuale di preparazione.
+- Dopo ogni risposta mostra il pulsante **Spiegazione** con una mini spiegazione semplice della risposta corretta.
+- Presenta una schermata iniziale pulita per scegliere l'area prima di iniziare l'allenamento.
 - Funziona offline perché la banca dati è inclusa negli asset dell'app.
+
+## Aree tematiche incluse
+
+1. Normativa del sistema educativo
+2. Conduzione delle organizzazioni complesse
+3. Programmazione, gestione e valutazione scolastica
+4. Ambienti di apprendimento, inclusione e digitale
+5. Organizzazione del lavoro e gestione del personale
+6. Valutazione e autovalutazione delle scuole
+7. Diritto civile e amministrativo
+8. Contabilità di Stato e gestione finanziaria
+9. Sistemi educativi europei
 
 ## Dove scaricare l'APK funzionante
 
